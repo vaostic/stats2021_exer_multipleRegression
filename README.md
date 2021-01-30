@@ -56,9 +56,9 @@ In statistics, we focus on four areas. (Summarized from the videos above.)
 3. outliers
 4. Statistical assumptions
 
-### Simple Regression
+### Multiple Regression
 
-Simple regression is used to predict the value of a continuous variable from a single continuous variable. Not only does it assess the strength and direction of the relationship between two variables, but it calculates where the outcome variable is centered. The simple linear regression belongs to a family of tests known as parametric tests and has similar distributional assumptions.
+Multiple regression is used to predict the value of a continuous variable from predictor variables. Not only does it assess the strength and direction of the relationships between the predictor variables and the outcome variable when controlling for the other variables in the model. Multiple linear regression belongs to a family of tests known as parametric tests and has similar distributional assumptions.
 
 ### Jamovi part
 
