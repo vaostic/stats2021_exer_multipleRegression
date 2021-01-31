@@ -1,4 +1,4 @@
-# Multiple Regression Tutorial
+# Multiple Regression Exercise
 
 ## Summary of steps to complete
 
